@@ -1,0 +1,12 @@
+*__pycache__*
+*.idea
+*.ipynb_checkpoints
+*.pth
+*.tar
+*.tgz
+*.jsonl
+*.zip
+*ml_trains_data*
+*submission*
+*img*
+/05/result.tsv
